@@ -1,3 +1,6 @@
-## Living Letter
+---
+layout: post
+title: "Living Letter"
+---
 
 ...
