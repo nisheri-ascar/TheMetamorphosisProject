@@ -1,12 +1,12 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+      #- title: Website
+      #url: https://www.abhinav.co
 
 project_entries:
   - title: Project 1
@@ -54,14 +54,17 @@ old_project_entries:
     desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: nisheri-ascar's homepage
+    url: https://nisheri-ascar.github.io
 
-  - title: twitter
-    url: https://twitter.com/abhinav
+  - title: Facebook
+    url: https://www.facebook.com/kristofer.ascarv2
 
-  - title: github
-    url: https://github.com/abhinavs
+  - title: Github
+    url: https://github.com/nisheri-ascar
+
+  - title: Instagram
+    url: https://instagram.com/nishii.kristofer_ascarr
 
   - title: feed
     url: feed.xml
